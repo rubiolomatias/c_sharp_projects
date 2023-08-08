@@ -1,0 +1,15 @@
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\bin\Debug\Pacientes.exe.config
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\bin\Debug\Pacientes.exe
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\bin\Debug\Pacientes.pdb
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.AssemblyReference.cache
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.frmPrincipal.resources
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.frmSexos.resources
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.Properties.Resources.resources
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.GenerateResource.cache
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.exe
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.pdb
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.frmNuevoSexo.resources
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.frmModificarSexo.resources
+C:\Users\maty_\Workspace\MyProjects\Tecnicatura\Programacion3\Base de datos\Pacientes\Pacientes\obj\Debug\Pacientes.frmPacientes.resources
