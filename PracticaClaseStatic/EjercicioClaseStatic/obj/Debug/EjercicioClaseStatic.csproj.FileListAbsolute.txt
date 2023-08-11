@@ -1,0 +1,11 @@
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\bin\Debug\EjercicioClaseStatic.exe.config
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\bin\Debug\EjercicioClaseStatic.exe
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\bin\Debug\EjercicioClaseStatic.pdb
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\obj\Debug\EjercicioClaseStatic.csproj.AssemblyReference.cache
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\obj\Debug\EjercicioClaseStatic.csproj.SuggestedBindingRedirects.cache
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\obj\Debug\EjercicioClaseStatic.Form1.resources
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\obj\Debug\EjercicioClaseStatic.Properties.Resources.resources
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\obj\Debug\EjercicioClaseStatic.csproj.GenerateResource.cache
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\obj\Debug\EjercicioClaseStatic.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\obj\Debug\EjercicioClaseStatic.exe
+C:\Users\maty_\Downloads\EjercicioClaseStatic\EjercicioClaseStatic\obj\Debug\EjercicioClaseStatic.pdb
