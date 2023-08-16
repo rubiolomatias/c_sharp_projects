@@ -1,0 +1,11 @@
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\bin\Debug\EjercicioTiempo.exe.config
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\bin\Debug\EjercicioTiempo.exe
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\bin\Debug\EjercicioTiempo.pdb
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\obj\Debug\EjercicioTiempo.csproj.AssemblyReference.cache
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\obj\Debug\EjercicioTiempo.csproj.SuggestedBindingRedirects.cache
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\obj\Debug\EjercicioTiempo.Form1.resources
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\obj\Debug\EjercicioTiempo.Properties.Resources.resources
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\obj\Debug\EjercicioTiempo.csproj.GenerateResource.cache
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\obj\Debug\EjercicioTiempo.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\obj\Debug\EjercicioTiempo.exe
+C:\Users\maty_\Downloads\EjercicioTiempo\EjercicioTiempo\obj\Debug\EjercicioTiempo.pdb
