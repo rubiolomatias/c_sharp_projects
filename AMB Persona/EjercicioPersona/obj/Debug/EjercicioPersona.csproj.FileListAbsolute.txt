@@ -1,0 +1,11 @@
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\bin\Debug\EjercicioPersona.exe.config
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\bin\Debug\EjercicioPersona.exe
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\bin\Debug\EjercicioPersona.pdb
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.csproj.AssemblyReference.cache
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.csproj.SuggestedBindingRedirects.cache
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.Form1.resources
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.Properties.Resources.resources
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.csproj.GenerateResource.cache
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.csproj.CoreCompileInputs.cache
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.exe
+C:\Users\maty_\Downloads\EjercicioPersona\EjercicioPersona\obj\Debug\EjercicioPersona.pdb
